@@ -3,7 +3,7 @@
 
 
 
-int idade(){
+int idade(){ //entrada
 	int i;
 	
 	printf("Digite uma idade: ");
@@ -16,13 +16,13 @@ int idade(){
 	return i;
 }
 
-int abs(int x){  
+int abs(int x){  //função abs
 	if (x < 0) x = (-1) * x;
 	return x;
 }
 
 
-int main(){
+int main(){ //saida
 	 setlocale(LC_ALL, "Portuguese");
 	int id1, id2, dif;
 	
