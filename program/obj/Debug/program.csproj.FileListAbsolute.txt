@@ -1,0 +1,7 @@
+C:\Users\diego.rodrigues1_usc\source\repos\program\bin\Debug\program.exe.config
+C:\Users\diego.rodrigues1_usc\source\repos\program\bin\Debug\program.exe
+C:\Users\diego.rodrigues1_usc\source\repos\program\bin\Debug\program.pdb
+C:\Users\diego.rodrigues1_usc\source\repos\program\obj\Debug\program.csprojAssemblyReference.cache
+C:\Users\diego.rodrigues1_usc\source\repos\program\obj\Debug\program.csproj.CoreCompileInputs.cache
+C:\Users\diego.rodrigues1_usc\source\repos\program\obj\Debug\program.exe
+C:\Users\diego.rodrigues1_usc\source\repos\program\obj\Debug\program.pdb
